@@ -18,3 +18,4 @@ This repository contains **boilerplate** for React Authentication with Node at t
 ## How to run this locally?
 1) Go to project directory
 2) Run command **npm run dev**
+3) Go to http://localhost:3000
