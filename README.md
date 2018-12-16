@@ -19,3 +19,7 @@ This repository contains **boilerplate** for React Authentication with Node at t
 1) Go to project directory
 2) Run command **npm run dev**
 3) Go to http://localhost:3000
+
+
+
+**PS-This is basic setup for Authentication, if you feel any new functionality can be added to improve or to make it more efficient. Please let me know.**
